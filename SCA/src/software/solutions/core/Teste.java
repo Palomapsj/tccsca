@@ -8,7 +8,7 @@ import software.solutions.persistence.Contato;
 public class Teste {
 	public static void main(String[] args){
 		Contato contato = new Contato();
-		contato.setNome("Cintia Silva De Jesus");
+		contato.setNome("wanderson almeida ferreira");
 		contato.setDataNascimento(Calendar.getInstance());
 		contato.setEmail("yasmim.psj@hotmail.com");
 		
