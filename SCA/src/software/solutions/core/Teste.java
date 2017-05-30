@@ -10,7 +10,7 @@ public class Teste {
 		Contato contato = new Contato();
 		contato.setNome("Cintia Silva De Jesus");
 		contato.setDataNascimento(Calendar.getInstance());
-		contato.setEmail("paloma.psj@hotmail.com");
+		contato.setEmail("yasmim.psj@hotmail.com");
 		
 		ContatoDAO dao = new ContatoDAO();
 		dao.adiciona(contato);
